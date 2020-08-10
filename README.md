@@ -32,3 +32,4 @@ Use command: mvn clean install
 Go to home directory of the project and run "java -jar target/authentication-wizard.jar"
 ## Swagger link
 http://localhost:9003/api/v1/swagger-ui.html
+# my-app
